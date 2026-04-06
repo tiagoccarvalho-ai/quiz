@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz — Expert em Franjas</title>
+<meta property="og:title" content="Diagnóstico Profissional — Expert em Franjas">
+<meta property="og:description" content="5 perguntas que revelam como você pensa sobre o futuro da sua profissão. Descubra seu perfil em menos de 2 minutos.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta name="description" content="5 perguntas que revelam como você pensa sobre o futuro da sua profissão. Descubra seu perfil em menos de 2 minutos.">
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init','701332689664190');
+fbq('track','PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=701332689664190&ev=PageView&noscript=1"/></noscript>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'DM Sans',sans-serif;background:#F5EBE0;color:#3D2117;min-height:100vh;overflow-x:hidden;}
+
+#qr{min-height:100vh;position:relative;}
+.qbg{position:fixed;inset:0;background:radial-gradient(ellipse at 20% 50%,rgba(193,68,14,.06) 0%,transparent 60%),radial-gradient(ellipse at 80% 20%,rgba(193,68,14,.04) 0%,transparent 50%);pointer-events:none;z-index:0;}
+
+/* SCREENS */
+.qs{display:none;flex-direction:column;justify-content:center;min-height:100vh;padding:80px 40px 52px;position:relative;z-index:1;
+  animation:slideIn .35s ease;}
+.qs.on{display:flex;}
+.qs.out{animation:slideOut .25s ease forwards;}
+@keyframes slideIn{from{opacity:0;transform:translateX(40px);}to{opacity:1;transform:translateX(0);}}
+@keyframes slideOut{from{opacity:1;transform:translateX(0);}to{opacity:0;transform:translateX(-40px);}}
+
+/* PROGRESS */
+.pb{position:fixed;top:0;left:0;right:0;z-index:100;padding:12px 24px;background:rgba(245,235,224,.95);backdrop-filter:blur(8px);}
+.pf{display:none;}
+.pl{display:none;}
+.seg-bar{display:flex;gap:6px;align-items:center;max-width:560px;margin:0 auto;}
+.seg{flex:1;height:6px;border-radius:3px;background:rgba(193,68,14,.15);transition:background .4s ease,transform .3s ease;}
+.seg.active{background:linear-gradient(90deg,#C1440E,#E8A838);transform:scaleY(1.3);}
+.seg.done{background:#C1440E;}
+.seg-label{font-size:11px;color:#9A7E6E;letter-spacing:.1em;white-space:nowrap;margin-left:12px;flex-shrink:0;}
+
+/* TYPOGRAPHY — high contrast */
+.ew{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#C1440E;margin-bottom:20px;}
+.qn{font-family:'Cormorant Garamond',serif;font-size:88px;color:rgba(193,68,14,.08);line-height:1;position:absolute;right:40px;top:40px;}
+.qt{font-family:'Cormorant Garamond',serif;font-size:34px;line-height:1.2;color:#3D2117;margin-bottom:10px;max-width:520px;}
+.qsub{font-size:14px;color:#6B4D3F;font-weight:400;margin-bottom:36px;line-height:1.6;}
+
+/* OPTIONS */
+.ops{display:flex;flex-direction:column;gap:12px;max-width:560px;}
+.op{background:rgba(90,56,40,.05);border:1px solid rgba(193,68,14,.15);border-radius:6px;padding:16px 20px;cursor:pointer;transition:all .2s ease;display:flex;align-items:flex-start;gap:14px;}
+.op:hover{background:rgba(193,68,14,.08);border-color:rgba(193,68,14,.4);}
+.op.sel{background:rgba(193,68,14,.12);border-color:#C1440E;box-shadow:0 0 0 1px rgba(193,68,14,.2);}
+.op.correct{background:rgba(193,68,14,.15);border-color:#C1440E;}
+.ol{font-size:12px;letter-spacing:.1em;color:#C1440E;font-weight:600;min-width:18px;margin-top:2px;transition:transform .2s ease;}
+.op.sel .ol{transform:scale(1.2);}
+.ot{font-size:14px;font-weight:400;line-height:1.55;color:#3D2117;}
+
+/* FEEDBACK */
+.feedback{margin-top:16px;max-width:560px;padding:14px 18px;border-left:2px solid #C1440E;background:rgba(193,68,14,.06);border-radius:0 6px 6px 0;display:none;}
+.feedback.show{display:block;animation:fadeIn .3s ease;}
+.feedback-txt{font-size:13px;color:#9E3409;font-weight:400;line-height:1.65;font-style:italic;}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+
+/* BTN NEXT */
+.bn{margin-top:24px;align-self:flex-start;background:#C1440E;color:#F5EDE4;border:none;padding:15px 36px;font-family:'DM Sans',sans-serif;font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;cursor:pointer;border-radius:4px;opacity:.2;pointer-events:none;transition:opacity .3s,background .2s,transform .1s;}
+.bn.on{opacity:1;pointer-events:all;}
+.bn:hover{background:#D4501A;}
+.bn:active{transform:scale(.98);}
+
+/* DIVIDER */
+.dv{width:40px;height:1px;background:rgba(193,68,14,.3);margin-bottom:32px;}
+
+/* INTRO */
+.it{font-family:'Cormorant Garamond',serif;font-size:50px;font-weight:600;line-height:1.08;color:#3D2117;margin-bottom:10px;}
+.it em{font-style:italic;color:#C1440E;}
+.is{font-size:15px;font-weight:400;color:#6B4D3F;line-height:1.65;max-width:420px;margin-bottom:40px;}
+.in{margin-top:16px;font-size:12px;color:#9A7E6E;letter-spacing:.06em;}
+.btn-start{background:#C1440E;color:#F5EDE4;border:none;padding:16px 44px;font-family:'DM Sans',sans-serif;font-size:12px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;cursor:pointer;border-radius:4px;transition:background .2s,transform .1s;}
+.btn-start:hover{background:#D4501A;}
+.btn-start:active{transform:scale(.98);}
+
+/* LOADING */
+#s-loading{background:#F5EBE0;}
+.loading-inner{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:24px;}
+.loading-title{font-family:'Cormorant Garamond',serif;font-size:36px;font-weight:400;font-style:italic;color:#3D2117;line-height:1.3;}
+.loading-bar-wrap{width:200px;height:2px;background:rgba(193,68,14,.2);border-radius:2px;overflow:hidden;}
+.loading-bar{height:100%;background:linear-gradient(90deg,#C1440E,#E8A838);width:0%;transition:width .1s linear;}
+.loading-sub{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:#9A7E6E;}
+
+
+
+
+/* RESULTADO */
+#sr{display:none;flex-direction:column;min-height:100vh;padding:52px 40px 80px;position:relative;z-index:1;}
+#sr.on{display:flex;animation:slideIn .4s ease;}
+.rp{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#C1440E;margin-bottom:8px;}
+.rt{font-family:'Cormorant Garamond',serif;font-size:46px;font-weight:600;line-height:1.08;color:#3D2117;margin-bottom:20px;}
+.rd{font-size:15px;font-weight:400;color:#6B4D3F;line-height:1.8;max-width:500px;margin-bottom:16px;}
+.ri{border-left:2px solid #C1440E;padding-left:20px;margin:20px 0 28px;font-family:'Cormorant Garamond',serif;font-size:22px;font-style:italic;color:#9E3409;line-height:1.45;max-width:460px;}
+
+/* SCORE */
+.score-wrap{max-width:500px;margin-bottom:36px;}
+.score-label{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#9A7E6E;margin-bottom:10px;}
+.score-bar-bg{height:6px;background:rgba(193,68,14,.15);border-radius:3px;overflow:hidden;margin-bottom:8px;}
+.score-bar-fill{height:100%;background:linear-gradient(90deg,#C1440E,#E8A838);border-radius:3px;transition:width 1.2s cubic-bezier(.4,0,.2,1);width:0%;}
+.score-nums{display:flex;justify-content:space-between;align-items:center;}
+.score-val{font-family:'Cormorant Garamond',serif;font-size:32px;font-weight:600;color:#C1440E;}
+.score-max{font-size:13px;color:#9A7E6E;}
+
+/* GABARITO */
+.gab-title{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#C1440E;margin-bottom:20px;}
+.cta-mid{margin-bottom:40px;}
+.cta-bottom{margin-top:8px;margin-bottom:8px;}
+.bundle-items{display:flex;flex-direction:column;gap:6px;margin-bottom:20px;}
+.bi{font-size:12px;font-weight:300;color:#6B4D3F;line-height:1.5;}
+.urgency{font-size:12px;font-weight:500;color:#C1440E;margin-top:12px;letter-spacing:.02em;}
+.urgency strong{color:#3D2117;}
+.guarantee{font-size:11px;font-weight:300;color:#9A7E6E;margin-top:6px;letter-spacing:.02em;}
+.gab-list{display:flex;flex-direction:column;gap:14px;max-width:580px;margin-bottom:36px;}
+.gab-item{border:1px solid rgba(193,68,14,.12);border-radius:6px;overflow:hidden;}
+.gab-q{font-size:12px;font-weight:500;color:#9A7E6E;padding:12px 16px 8px;letter-spacing:.04em;}
+.gab-answers{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid rgba(193,68,14,.1);}
+.gab-col{padding:12px 16px;}
+.gab-col:first-child{border-right:1px solid rgba(193,68,14,.1);}
+.gab-label{font-size:10px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:6px;}
+.gab-label.yours{color:#9A7E6E;}
+.gab-label.ideal{color:#C1440E;}
+.gab-text{font-size:13px;font-weight:400;line-height:1.5;color:#6B4D3F;}
+.gab-text.ideal{color:#3D2117;}
+.gab-why{font-size:12px;font-weight:400;color:#9A7E6E;line-height:1.6;padding:0 16px 12px;font-style:italic;}
+
+/* CTA */
+.cb{background:rgba(90,56,40,.08);border:1px solid rgba(90,56,40,.2);border-radius:8px;padding:28px 32px;max-width:500px;margin-bottom:24px;}
+.cl{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#C1440E;margin-bottom:10px;}
+.ct{font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:600;color:#3D2117;margin-bottom:8px;}
+.cs{font-size:14px;font-weight:400;color:#6B4D3F;line-height:1.65;margin-bottom:22px;}
+.btn-cta{
+  background:#FF6B35;
+  color:#ffffff;
+  border:none;
+  padding:18px 36px;
+  font-family:'DM Sans',sans-serif;
+  font-size:13px;
+  font-weight:600;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  cursor:pointer;
+  border-radius:4px;
+  display:inline-block;
+  text-decoration:none;
+  position:relative;
+  overflow:hidden;
+  animation:ctaPulse 2.4s ease-in-out infinite, ctaGlow 2.4s ease-in-out infinite;
+}
+.btn-cta::before{
+  content:'';
+  position:absolute;
+  top:0;left:-100%;
+  width:60%;height:100%;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,0.35),transparent);
+  animation:ctaShine 2.8s ease-in-out infinite;
+  pointer-events:none;
+}
+.btn-cta:hover{
+  background:#FF8A5C;
+  animation:none;
+  transform:scale(1.03);
+  box-shadow:0 0 0 3px rgba(255,107,53,0.4),0 8px 32px rgba(255,107,53,0.15);
+  transition:transform .2s,box-shadow .2s,background .2s;
+}
+.btn-cta:hover::before{animation:none;}
+.btn-cta:active{transform:scale(.97);}
+@keyframes ctaPulse{
+  0%,100%{transform:scale(1);}
+  50%{transform:scale(1.025);}
+}
+@keyframes ctaGlow{
+  0%,100%{box-shadow:0 0 0 0 rgba(255,107,53,0),0 0 16px rgba(255,107,53,0.08);}
+  50%{box-shadow:0 0 0 6px rgba(255,107,53,0.15),0 0 32px rgba(255,107,53,0.3);}
+}
+@keyframes ctaShine{
+  0%{left:-100%;}
+  40%,100%{left:160%;}
+}
+
+
+
+/* TABLET */
+@media(max-width:1024px){
+  .qs{padding:60px 32px 52px;}
+  #sr{padding:48px 32px 80px;}
+  .it{font-size:42px;}
+  .qn{font-size:72px;}
+}
+
+/* MOBILE */
+@media(max-width:600px){
+  .qs{padding:40px 24px 60px;}
+  #sr{padding:40px 24px 80px;}
+  #s-email{padding:40px 24px;}
+  .it{font-size:36px;}
+  .qt{font-size:26px;}
+  .rt{font-size:34px;}
+  .qn{font-size:64px;right:24px;top:32px;}
+  .pl{right:16px;}
+  .gab-answers{grid-template-columns:1fr;}
+  .gab-col:first-child{border-right:none;border-bottom:1px solid rgba(180,150,80,.1);}
+  .email-title{font-size:28px;}
+  .loading-title{font-size:28px;}
+  .bn{align-self:stretch;text-align:center;}
+  .btn-start{width:100%;text-align:center;}
+  .btn-cta{width:100%;text-align:center;font-size:14px;}
+  .cb{padding:24px 20px;}
+  .pb{padding:12px 24px;padding-top:max(12px,env(safe-area-inset-top));}
+}
+</style>
+</head>
+<body>
+<div id="qr">
+  <div class="qbg"></div>
+  <div class="pb" id="pb-wrap">
+    <div class="seg-bar" id="seg-bar"></div>
+  </div>
+
+  <!-- INTRO -->
+  <div class="qs on" id="si">
+    <div class="ew">Diagnóstico Profissional</div>
+    <div class="it">5 perguntas que revelam<br>como você pensa sobre o<br><em>futuro da sua profissão</em></div>
+    <div class="dv"></div>
+    <div class="is">Descubra sua mentalidade profissional — e o que ela diz sobre onde você está e para onde vai na carreira.</div>
+    <button class="btn-start" id="bstart">Iniciar diagnóstico</button>
+    <div class="in">5 perguntas · menos de 2 minutos · Gratuito</div>
+    <div class="in" style="margin-top:8px;">Criado por Ronaldo Pagliarini · 38 anos de experiência · Tony &amp; Guy · Pivot Point</div>
+  </div>
+
+  <!-- PERGUNTA -->
+  <div class="qs" id="sq">
+    <div class="qn" id="qn"></div>
+    <div class="ew" id="qe"></div>
+    <div class="qt" id="qtx"></div>
+    <div class="qsub" id="qsb"></div>
+    <div class="ops" id="ops"></div>
+    <div class="feedback" id="feedback"><div class="feedback-txt" id="feedback-txt"></div></div>
+    <button class="bn" id="bnext">Próxima pergunta</button>
+  </div>
+
+  <!-- LOADING -->
+  <div class="qs" id="s-loading">
+    <div class="loading-inner">
+      <div class="loading-title">Calculando<br>seu perfil…</div>
+      <div class="loading-bar-wrap"><div class="loading-bar" id="lbar"></div></div>
+      <div class="loading-sub" id="loading-sub">Analisando respostas</div>
+    </div>
+  </div>
+
+  <!-- RESULTADO -->
+  <div id="sr">
+    <div class="ew">Seu diagnóstico</div>
+    <div class="rp" id="rp"></div>
+    <div class="rt" id="rt"></div>
+    <div class="rd" id="rd"></div>
+    <div class="ri" id="ri"></div>
+
+    <div class="score-wrap">
+      <div class="score-label">Seu nível de posicionamento</div>
+      <div class="score-bar-bg"><div class="score-bar-fill" id="sbar"></div></div>
+      <div class="score-nums">
+        <div class="score-val" id="score-val"></div>
+        <div class="score-max">de 25 pontos possíveis</div>
+      </div>
+    </div>
+
+    <div class="cb cta-mid">
+      <div class="cl">O próximo passo</div>
+      <div class="ct">Expert em Franjas + 2 Bônus Exclusivos</div>
+      <div class="cs" id="rc"></div>
+      <div class="bundle-items">
+        <div class="bi">🎬 Curso Expert em Franjas — acesso vitalício</div>
+        <div class="bi">🎬 4 Cortes Completos — Round · Square · Forward · One Length</div>
+        <div class="bi">📖 E-book Visagismo — 7 formatos de rosto + estratégia de fidelização</div>
+      </div>
+      <a class="btn-cta" id="bcta-top" href="https://ronaldo-pagliarini.kpages.online/expert-franjas-bonus?utm_source=quiz&utm_medium=cta&utm_campaign=expert-franjas" target="_blank">Quero me especializar agora</a>
+      <div class="urgency">Oferta de lançamento · Curso + 4 Cortes + E-book · Por tempo limitado</div>
+      <div class="guarantee">✓ Garantia de 7 dias · Acesso imediato · Pagamento seguro via Hotmart</div>
+    </div>
+
+    <div class="gab-title">Análise pergunta a pergunta</div>
+    <div class="gab-list" id="gab"></div>
+
+    <div class="cta-bottom">
+      <a class="btn-cta" id="bcta" href="https://ronaldo-pagliarini.kpages.online/expert-franjas-bonus?utm_source=quiz&utm_medium=cta&utm_campaign=expert-franjas" target="_blank">Começar minha especialização agora</a>
+      <div class="urgency">Oferta de lançamento · Curso + 4 Cortes + E-book · Por tempo limitado</div>
+      <div class="guarantee">✓ Garantia de 7 dias · Acesso imediato · Pagamento seguro via Hotmart</div>
+    </div>
+
+
+  </div>
+</div>
+
+<script>
+(function(){
+var Qs=[
+  {ey:"Como você enxerga o serviço",tx:"Quando você termina um corte e a cliente ama o resultado, o que passa pela sua cabeça?",sub:"Seja honesta — é aqui que tudo começa.",
+   feedback:"Profissionais de alto nível já visualizam o ciclo completo desde o primeiro resultado. O corte não é um evento — é o início de uma relação de longo prazo.",
+   ideal:"Isso é o que me diferencia — e ela vai voltar por isso.",
+   why:"Mentalidade de autoridade começa no momento do resultado. Quem pensa em recorrência desde o primeiro atendimento constrói uma agenda cheia naturalmente — sem precisar buscar clientes novas.",
+   opts:[{l:"A",t:"O importante é que ela saiu satisfeita — o resto vem naturalmente.",p:1},{l:"B",t:"Tomara que ela volte para manutenção.",p:3},{l:"C",t:"Já estou pensando em quando agendar o próximo atendimento.",p:4},{l:"D",t:"Isso é o que me diferencia — e ela vai voltar por isso.",p:5}]},
+  {ey:"Como você lida com desafio técnico",tx:"Uma cliente chega com uma referência de corte que você nunca executou. O que você faz?",sub:"Acontece mais do que a gente imagina — e a reação diz muito.",
+   feedback:"Repertório amplo não é sobre saber tudo — é sobre não deixar nenhuma cliente buscar outra profissional. Cada corte que você domina é uma cliente a mais que fica.",
+   ideal:"Encaro como oportunidade — repertório novo é proteção de clientela.",
+   why:"Cada corte que você evita é uma cliente que vai buscar outra profissional — e talvez não volte. Mentalidade de crescimento é o que separa quem estagna de quem lidera.",
+   opts:[{l:"A",t:"Indico outra profissional que domina esse estilo — prefiro fazer o que já sei bem.",p:1},{l:"B",t:"Aceito, mas fico nervosa durante o atendimento.",p:2},{l:"C",t:"Pesquiso antes de responder e me preparo bem.",p:4},{l:"D",t:"Encaro como oportunidade — repertório novo é proteção de clientela.",p:5}]},
+  {ey:"Como você se posiciona financeiramente",tx:"Sua cliente pede desconto no retoque ou na manutenção. O que você sente na hora?",sub:"O que você cobra diz muito sobre como você se vê no mercado.",
+   feedback:"A relação com dinheiro é o espelho mais fiel da mentalidade de posicionamento. Quem conhece o valor do próprio trabalho não negocia — explica.",
+   ideal:"Não acontece — minha cliente sabe o que está pagando.",
+   why:"Cobrar com confiança não é arrogância — é o reflexo de dominar o que você faz. Especialistas não negociam o próprio valor. Eles constroem clientes que entendem esse valor.",
+   opts:[{l:"A",t:"Prefiro oferecer um desconto de fidelidade — assim ela volta sempre.",p:1},{l:"B",t:"Mantenho o preço, mas confesso que fico desconfortável.",p:2},{l:"C",t:"Explico o valor do serviço com calma.",p:4},{l:"D",t:"Não acontece — minha cliente sabe o que está pagando.",p:5}]},
+  {ey:"Como você lida com a IA na prática",tx:"Uma cliente mostra um corte gerado por IA no celular e pede para você reproduzir. O que você faz?",sub:"Isso já está acontecendo em salões de todo o Brasil.",
+   feedback:"A IA cria imagens perfeitas para cabelos perfeitos que não existem. Quem tem experiência real sabe adaptar — e entregar algo melhor do que o algoritmo imaginou.",
+   ideal:"Uso como ponto de partida e proponho o que funciona melhor na realidade.",
+   why:"A IA não conhece o volume real do cabelo, o formato do rosto, a textura do fio. Cabeleireiras especializadas não reproduzem algoritmos — elas os superam com técnica e leitura humana.",
+   opts:[{l:"A",t:"Faço o máximo para entregar exatamente o que ela pediu — cliente satisfeita é cliente que volta.",p:1},{l:"B",t:"Fico insegura — e se não ficar igual?",p:2},{l:"C",t:"Analiso se o corte é viável para o tipo de cabelo e rosto dela.",p:4},{l:"D",t:"Uso como ponto de partida e proponho o que funciona melhor na realidade.",p:5}]},
+  {ey:"Como você imagina sua carreira",tx:"Se pudesse escolher, onde você estaria daqui a 3 anos na profissão?",sub:"O destino define o caminho — e o caminho começa agora.",
+   feedback:"Atender mais é teto. Construir autoridade é alavanca. As duas escolhas levam para lugares muito diferentes em 3 anos — e a diferença começa na mentalidade de hoje.",
+   ideal:"Com um método que trabalha por mim — agenda cheia, clientes fiéis, preço justo.",
+   why:"Quem constrói um método não depende de sorte ou indicação. Agenda cheia, clientes fiéis e preço justo são consequência de especialização — não de esforço dobrado.",
+   opts:[{l:"A",t:"Crescendo no boca a boca — quanto mais clientes satisfeitas, mais indicações.",p:1},{l:"B",t:"Ainda não parei para pensar nisso.",p:2},{l:"C",t:"Sendo reconhecida como referência na minha cidade.",p:4},{l:"D",t:"Com um método que trabalha por mim — agenda cheia, clientes fiéis, preço justo.",p:5}]}
+];
+
+var Ps=[
+  {min:5,max:10,lbl:"Perfil A",title:"A Generalista",desc:"Você tem uma base sólida e atende bem — mas o mercado está pedindo algo mais, e você sente isso. Não é falta de talento: é falta de uma direção clara. Quando tudo muda ao redor, quem não se posiciona acaba sendo escolhida por preço — em vez de ser procurada por valor. A boa notícia? Você já deu o primeiro passo ao buscar esse diagnóstico — e o próximo está logo ali.",insight:'"Quem tenta ser tudo para todo mundo acaba sendo pouco para qualquer um." — Ronaldo Pagliarini',cta:"O Expert em Franjas foi criado para este momento. Em menos de 2 horas você aprende a executar as franjas mais pedidas com total segurança — já no próximo atendimento. Com o bônus de 4 cortes completos e o ebook de visagismo, você sai com um repertório que a maioria das cabeleireiras leva anos para construir."},
+  {min:11,max:15,lbl:"Perfil B",title:"A Técnica",desc:"Você tem habilidade de sobra — o problema está no que acontece depois que a cliente sai da cadeira. Você executa bem, mas ainda não transformou técnica em negócio. Sem estratégia de retenção e sem posicionamento, cada dia começa do zero. O mercado não premia esforço — premia resultado e recorrência.",insight:'"Técnica sem estratégia é talento perdido. O que falta não é mais habilidade — é método." — Ronaldo Pagliarini',cta:"O Expert em Franjas é o elo entre o que você percebe e o que você executa. Com o método completo, você passa a oferecer manutenção de franja a cada 15 dias — e cada cliente fidelizada gera de R$200 a R$500 por mês em outros serviços. Não por sorte. Por design."},
+  {min:16,max:20,lbl:"Perfil C",title:"A Estrategista",desc:"Você já enxerga o negócio além da cadeira. Entende de retenção, percebe o valor da especialização e não tem medo do futuro. Mas ainda existe uma lacuna entre o que você vê e o que você executa com consistência. O próximo passo é o método que une tudo isso em um sistema que funciona todos os dias.",insight:'"Você já pensa como expert. Agora precisa operar como uma." — Ronaldo Pagliarini',cta:"O Expert em Franjas formaliza o que você já intui — e transforma intuição em resultado previsível. O bônus de 4 cortes completos amplia seu repertório técnico, e o ebook de visagismo entrega a você o diagnóstico de rosto que separa uma boa cabeleireira de uma referência no mercado."},
+  {min:21,max:25,lbl:"Perfil D",title:"A Expert",desc:"Você já opera em outro nível. Tem visão estratégica, confiança técnica e entende que especialização é proteção — contra o mercado, contra a concorrência e contra a tecnologia. Mas ser Expert não é um destino: é uma posição que precisa ser mantida, aprofundada e, principalmente, formalizada.",insight:'"O mercado respeita quem pode provar o que sabe. Uma especialização não é vaidade — é credencial." — Ronaldo Pagliarini',cta:"O Expert em Franjas é a formalização da sua expertise — construída por Ronaldo Pagliarini em 38 anos de experiência e 8 formações internacionais em Tony & Guy e Pivot Point. Para quem já pensa como expert, este é o método que confirma, estrutura e escala o que você já domina."}
+];
+
+var cur=0,score=0,sel=null,answers=[];
+var loadingPhrases=['Analisando respostas…','Calculando seu perfil…','Comparando com outros perfis…','Preparando seu diagnóstico…'];
+
+function show(id){
+  var screens=['si','sq','s-loading','sr'];
+  screens.forEach(function(s){
+    var el=document.getElementById(s);
+    if(el){el.classList.remove('on');el.style.display='';}
+  });
+  var target=document.getElementById(id);
+  if(id==='sr'){target.style.display='flex';target.classList.add('on');}
+  else{target.classList.add('on');}
+}
+
+function buildSegBar(){
+  var bar=document.getElementById('seg-bar');
+  if(!bar)return;
+  bar.innerHTML='';
+  for(var i=0;i<Qs.length;i++){
+    var s=document.createElement('div');
+    s.className='seg';
+    s.id='seg-'+i;
+    bar.appendChild(s);
+  }
+  var lbl=document.createElement('div');
+  lbl.className='seg-label';
+  lbl.id='seg-label';
+  bar.appendChild(lbl);
+}
+
+function updateProgress(i){
+  for(var j=0;j<Qs.length;j++){
+    var seg=document.getElementById('seg-'+j);
+    if(!seg)continue;
+    if(j<i){seg.className='seg done';}
+    else if(j===i){seg.className='seg active';}
+    else{seg.className='seg';}
+  }
+  var lbl=document.getElementById('seg-label');
+  if(lbl)lbl.textContent=(i+1)+' de '+Qs.length;
+}
+
+function shuffle(arr){
+  var a=arr.slice();
+  for(var i=a.length-1;i>0;i--){
+    var j=Math.floor(Math.random()*(i+1));
+    var tmp=a[i];a[i]=a[j];a[j]=tmp;
+  }
+  return a;
+}
+
+function loadQ(i){
+  var q=Qs[i]; sel=null;
+  updateProgress(i);
+  document.getElementById('qn').textContent='0'+(i+1);
+  document.getElementById('qe').textContent=q.ey;
+  document.getElementById('qtx').textContent=q.tx;
+  document.getElementById('qsb').textContent=q.sub;
+  var bn=document.getElementById('bnext');
+  bn.textContent=i<Qs.length-1?'Próxima pergunta':'Ver meu diagnóstico';
+  bn.classList.remove('on');
+  var fb=document.getElementById('feedback');
+  fb.classList.remove('show'); fb.style.display='none';
+  var ops=document.getElementById('ops');
+  ops.innerHTML='';
+  var shuffledOpts=shuffle(q.opts);
+  shuffledOpts.forEach(function(o){
+    var d=document.createElement('div');
+    d.className='op';
+    d.innerHTML='<span class="ol">◆</span><span class="ot">'+o.t+'</span>';
+    (function(opt){
+      d.addEventListener('click',function(){
+        document.querySelectorAll('#ops .op').forEach(function(x){x.classList.remove('sel');x.querySelector('.ol').textContent='\u25C6';});
+        d.classList.add('sel');
+        d.querySelector('.ol').textContent='\u2713';
+        sel=opt;
+        // Show feedback
+        var fb=document.getElementById('feedback');
+        document.getElementById('feedback-txt').textContent=q.feedback;
+        fb.style.display='block';
+        setTimeout(function(){fb.classList.add('show');},10);
+        document.getElementById('bnext').classList.add('on');
+      });
+    })(o);
+    ops.appendChild(d);
+  });
+  show('sq');
+}
+
+function runLoading(cb){
+  show('s-loading');
+  var bar=document.getElementById('lbar');
+  var sub=document.getElementById('loading-sub');
+  var pct=0; var pi=0;
+  var iv=setInterval(function(){
+    pct+=2;
+    bar.style.width=pct+'%';
+    if(pct%25===0&&pi<loadingPhrases.length){
+      sub.textContent=loadingPhrases[pi++];
+    }
+    if(pct>=100){clearInterval(iv);setTimeout(cb,400);}
+  },40);
+}
+
+function buildGabarito(){
+  var gab=document.getElementById('gab');
+  gab.innerHTML='';
+  answers.forEach(function(ans,i){
+    var q=Qs[i];
+    var isIdeal=(ans.t===q.ideal);
+    var item=document.createElement('div');
+    item.className='gab-item';
+    item.innerHTML=
+      '<div class="gab-q">'+(i+1)+'. '+q.ey+'</div>'+
+      '<div class="gab-answers">'+
+        '<div class="gab-col">'+
+          '<div class="gab-label yours">Sua resposta</div>'+
+          '<div class="gab-text" style="color:'+(isIdeal?'#c9a84c':'rgba(240,234,216,.65)')+'">'+ans.t+'</div>'+
+        '</div>'+
+        '<div class="gab-col">'+
+          '<div class="gab-label ideal">Resposta ideal</div>'+
+          '<div class="gab-text ideal">'+q.ideal+'</div>'+
+        '</div>'+
+      '</div>'+
+      '<div class="gab-why">'+q.why+'</div>';
+    gab.appendChild(item);
+  });
+}
+
+function showResult(){
+  var p=Ps[Ps.length-1];
+  for(var i=0;i<Ps.length;i++){if(score>=Ps[i].min&&score<=Ps[i].max){p=Ps[i];break;}}
+  document.getElementById('rp').textContent=p.lbl;
+  document.getElementById('rt').textContent=p.title;
+  document.getElementById('rd').textContent=p.desc;
+  document.getElementById('ri').textContent=p.insight;
+  document.getElementById('rc').textContent=p.cta;
+  document.getElementById('score-val').textContent=score+' pontos';
+  buildGabarito();
+  document.getElementById('pb-wrap').style.display='none';
+  show('sr');
+  // Pixel: resultado visualizado com perfil
+  if(typeof fbq==='function'){fbq('track','CompleteRegistration',{content_name:p.lbl+' - '+p.title,value:score,currency:'BRL'});}
+  // Animate score bar
+  setTimeout(function(){
+    var pct=Math.round((score/25)*100);
+    document.getElementById('sbar').style.width=pct+'%';
+  },300);
+  // CTA Lead event — both buttons, com perfil
+  ['bcta','bcta-top'].forEach(function(id){
+    var el=document.getElementById(id);
+    if(!el)return;
+    el.addEventListener('click',function(e){
+      if(typeof fbq==='function'){fbq('track','Lead',{content_name:p.lbl+' - '+p.title,value:score,currency:'BRL'});}
+    });
+  });
+
+}
+
+// START
+document.getElementById('bstart').addEventListener('click',function(){
+  cur=0;score=0;sel=null;answers=[];
+  if(typeof fbq==='function'){fbq('track','ViewContent',{content_name:'Quiz Iniciado'});}
+  buildSegBar();
+  loadQ(0);
+});
+
+// NEXT
+document.getElementById('bnext').addEventListener('click',function(){
+  if(!sel)return;
+  score+=sel.p;
+  answers.push(sel);
+  cur++;
+  if(cur<Qs.length){
+    var sq=document.getElementById('sq');
+    sq.classList.add('out');
+    setTimeout(function(){
+      sq.classList.remove('out');
+      loadQ(cur);
+    },250);
+  } else {
+    runLoading(function(){showResult();});
+  }
+});
+
+
+
+})();
+</script>
+</body>
+</html>
