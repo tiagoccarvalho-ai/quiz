@@ -34,6 +34,12 @@
 - Experiência com musculação: já treinou pesado no passado; 2,5 anos destreinado
 - Lesões/limitações: ombro direito — ruptura parcial 50% do supraespinhal (em reabilitação). Trabalho sentado ~15h/dia, pernas encurtadas.
 
+## Histórico
+- Sempre praticou esporte. No melhor momento: musculação 3x/semana + corrida, **~16% de gordura**.
+- Há 8 meses: **79–80 kg**. Ganhou ~7–8 kg desde então, coincidindo com início da sertralina e mudança de rotina (trabalho sentado ~15h/dia).
+- **Implicação**: massa magra estimada de ~65 kg é consistente com o histórico (79 kg a ~17–18% ≈ 65 kg de magra). Confirma o alvo de 76–78 kg como o ponto de ~15%.
+- Musculatura prévia = memória muscular real. Recuperação de força e volume nas primeiras 8–16 semanas deve ser bem mais rápida que a de um iniciante.
+
 ## Metas
 - Principal: perder gordura preservando massa magra. **Alvo revisado: 76–78 kg** (~15% de gordura). 70 kg exigiria ~7% de gordura com massa magra intacta — inviável; ver `decisoes.md`.
 - Secundárias: energia estável para trabalhar, destravar encurtamento das pernas

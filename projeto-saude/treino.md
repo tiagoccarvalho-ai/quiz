@@ -8,7 +8,10 @@ Contexto: 44 anos, 87 kg, 2,5 anos destreinado, ombro direito com ruptura parcia
 3. Beach tennis — mantido, mas é o esporte, não o treino de força. Ver ressalvas abaixo.
 4. Mobilidade em casa — 10 min, 3x/semana.
 
-## Fase 1 — Readaptação (semanas 1 a 4)
+## Memória muscular
+Ele **não é iniciante** — é atleta destreinado. Os núcleos musculares adquiridos em anos de treino permanecem, e a recuperação de força/volume tende a ser 2 a 3x mais rápida que o ganho original. Progrida carga mais rápido que num iniciante, **mas o fator limitante é o ombro e o tecido conjuntivo, não o músculo**: tendão e articulação readaptam devagar e é aí que mora a lesão. Fase 1 encurtada para 3 semanas.
+
+## Fase 1 — Readaptação (semanas 1 a 3)
 2 séries por exercício, RIR 3–4 (longe da falha), foco em técnica e amplitude sem dor. Vai parecer fácil. É proposital: tendão e articulação adaptam mais devagar que músculo, e você está voltando de 2,5 anos.
 
 ### Treino A (full body)
@@ -33,7 +36,7 @@ Contexto: 44 anos, 87 kg, 2,5 anos destreinado, ombro direito com ruptura parcia
 
 Descanso: 90 s entre séries. Intervalo mínimo de 48 h entre A e B.
 
-## Fase 2 — Progressão (semana 5 em diante)
+## Fase 2 — Progressão (semana 4 em diante)
 Sobe para 3 séries nos principais, RIR 1–2. Progressão: quando fizer o topo da faixa de reps em todas as séries com técnica boa, sobe a carga no próximo treino. Anote carga × reps sempre — sem registro não há progressão.
 
 ## Ombro direito — regras fixas
