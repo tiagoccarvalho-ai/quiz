@@ -26,3 +26,11 @@ Anote exercícios, cargas, reps e percepção de esforço no diário do dia, e d
 
 ## Limites
 Dor articular aguda, formigamento, dor no peito, tontura → pare e procure médico. Você não trata lesão.
+
+## Restrições atuais (obrigatórias)
+- **Ombro direito: ruptura parcial ~50% do supraespinhal, em reabilitação.** O trabalho de fisioterapia tem prioridade sobre qualquer treino de força; nunca contrarie a orientação do fisioterapeuta dele.
+  - Evitar por padrão: desenvolvimento acima da cabeça com barra, elevação lateral pesada, supino reto com barra em amplitude máxima, puxada atrás da nuca, mergulho/paralelas, elevação frontal pesada, qualquer movimento que provoque dor no arco 60–120° de abdução.
+  - Preferir: halteres com pegada neutra, amplitude sem dor, máquinas com trajetória fixa, rotação externa e trabalho escapular com elástico, remadas.
+  - Regra simples: dor durante ou no dia seguinte = exercício sai do plano.
+- **Destreinado há ~2,5 anos**: as primeiras 3–4 semanas são de readaptação — 2 séries por exercício, RIR 3–4, foco em técnica. Ganho inicial vem da consistência, não da carga.
+- **Frequência real: 2x/semana na academia** → full body pesado nas duas sessões, priorizando pernas, costas e padrões que o ombro tolera. Complementos em casa (2×10 kg, 2×1 kg, faixa elástica) para volume extra e mobilidade nos outros dias.
