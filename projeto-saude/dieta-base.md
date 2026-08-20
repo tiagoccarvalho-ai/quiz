@@ -37,3 +37,8 @@ Quando o pedido do dia vier pobre em proteína: 2 scoops de whey (~50 g), 400 g 
 
 ## Revisão
 Semanal, pela média móvel de 7 dias do peso. Perdeu >1%/semana → +150 kcal (carboidrato). Sem perda por 3 semanas com adesão boa → −150 kcal ou +2000 passos/dia.
+
+## Ajuste v1.1 (2026-08-20)
+- TDEE revisado: **~2.500 kcal** (2x musculação + 2x beach tennis). Ingestão mantida em **1.800 kcal** → déficit ~700.
+- **Álcool**: teto de 4 long necks/semana (~580 kcal), concentradas em 1–2 dias, nunca na véspera de treino. Cada long neck ≈ 145 kcal e entra no orçamento do dia.
+- **Dias de beach tennis**: pode somar +150 a 200 kcal, todas em carboidrato, na refeição anterior ao jogo.
