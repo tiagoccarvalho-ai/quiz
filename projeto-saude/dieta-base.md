@@ -1,0 +1,39 @@
+# Dieta base — v1 (2026-08-20)
+
+Base: homem, 44 anos, 1,80 m, 87 kg. Sem medicação. Musculação 2x/semana + trabalho sentado ~15h/dia.
+
+## Energia
+- TMB (Mifflin-St Jeor): **1780 kcal**
+- TDEE estimado (fator 1,35 — sedentário + 2 treinos): **~2400 kcal**
+- Déficit alvo: **~600 kcal** → **1800 kcal/dia**
+- Perda esperada: **0,5–0,7 kg/semana**. De 87 → 70 kg: ~25 a 30 semanas.
+
+> Estes são números de partida. Depois de 2–3 semanas de peso registrado, o TDEE real substitui a fórmula.
+
+## Macros diários
+| | Meta | kcal |
+|---|---|---|
+| Proteína | **170 g** (~2,0 g/kg) | 680 |
+| Gordura | **65 g** (~0,75 g/kg) | 585 |
+| Carboidrato | **135 g** | 540 |
+| Fibra | **≥ 30 g** | — |
+| Água | 3 L | — |
+
+Proteína alta é o item inegociável: destreinado + déficit + 44 anos = risco alto de perder massa magra.
+
+## Distribuição (2–3 refeições grandes)
+- 2 refeições → **~85 g de proteína cada**
+- 3 refeições → **~57 g cada**
+- Regra prática: 250–300 g de carne/frango/peixe grelhado por refeição principal.
+
+## Estrutura de uma refeição
+1. Verdura/salada primeiro (volume + fibra)
+2. Proteína
+3. Carboidrato por último, sempre acompanhado — nunca isolado em jejum
+4. Caminhada de 10 min depois, quando der
+
+## Plano de resgate proteico
+Quando o pedido do dia vier pobre em proteína: 2 scoops de whey (~50 g), 400 g de iogurte grego (~40 g), 4 ovos (~24 g), 2 latas de atum (~40 g).
+
+## Revisão
+Semanal, pela média móvel de 7 dias do peso. Perdeu >1%/semana → +150 kcal (carboidrato). Sem perda por 3 semanas com adesão boa → −150 kcal ou +2000 passos/dia.

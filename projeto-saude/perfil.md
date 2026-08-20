@@ -3,12 +3,12 @@
 > Fonte de verdade dos agentes. Preencher os campos com `?`.
 
 ## Dados básicos
-- Idade: ?
-- Sexo: ?
-- Altura: ?
-- Peso atual: ?
+- Idade: 44
+- Sexo: masculino
+- Altura: 1,80 m
+- Peso atual: 87 kg (2026-08-20)
 - Peso alvo: 70 kg
-- % gordura estimada (se souber): ?
+- % gordura estimada: a definir (foto ou bioimpedância)
 
 ## Saúde
 - Doenças/condições conhecidas: ruptura parcial (~50%) do supraespinhal do ombro direito. Outras: ?
