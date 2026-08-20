@@ -42,3 +42,24 @@ Semanal, pela média móvel de 7 dias do peso. Perdeu >1%/semana → +150 kcal (
 - TDEE revisado: **~2.500 kcal** (2x musculação + 2x beach tennis). Ingestão mantida em **1.800 kcal** → déficit ~700.
 - **Álcool**: teto de 4 long necks/semana (~580 kcal), concentradas em 1–2 dias, nunca na véspera de treino. Cada long neck ≈ 145 kcal e entra no orçamento do dia.
 - **Dias de beach tennis**: pode somar +150 a 200 kcal, todas em carboidrato, na refeição anterior ao jogo.
+
+## Ajuste v2 (2026-08-20) — alvo corrigido para 85 kg com massa magra
+
+O projeto tem duas fases. A dieta muda entre elas.
+
+### Fase A — corte (agora → ~79 kg, estimados 4–5 meses)
+| | Meta | kcal |
+|---|---|---|
+| Calorias | **1.950** (TDEE ~2.500, déficit ~550) | |
+| Proteína | **175 g** | 700 |
+| Gordura | **65 g** | 585 |
+| Carboidrato | **165 g** | 660 |
+| Fibra | ≥ 30 g | — |
+
+Déficit menor que a v1 de propósito: o objetivo final é massa magra, não número na balança. Perda alvo **0,5 kg/semana**. Se passar de 0,8 kg/semana ou as cargas caírem, sobe 150 kcal.
+
+### Fase B — reconstrução (a partir de ~79 kg)
+Entrar em superávit leve de **200–300 kcal** (~2.700 kcal), proteína mantida em 175–180 g, carboidrato levando o aumento. Ganho alvo: **0,2–0,3 kg/semana**. Mais rápido que isso vira gordura.
+Meta: 79 → 85 kg recuperando os ~6 kg de massa magra perdidos no destreino. Prazo realista com memória muscular: 8 a 12 meses.
+
+**Gatilho de troca de fase**: peso ~79 kg *e* cargas de treino em progressão consistente. Não trocar antes.

@@ -35,11 +35,14 @@
 - Lesões/limitações: ombro direito — ruptura parcial 50% do supraespinhal (em reabilitação). Trabalho sentado ~15h/dia, pernas encurtadas.
 
 ## Histórico
-- Sempre praticou esporte. No melhor momento: musculação 3x/semana + corrida, **~16% de gordura**.
+- Sempre praticou esporte. No melhor momento: musculação 3x/semana + corrida, **85 kg a ~16% de gordura → ~71 kg de massa magra**. Peso extremamente estável nessa época.
+- Parou o tênis → começou a engordar.
 - Há 8 meses: **79–80 kg**. Ganhou ~7–8 kg desde então, coincidindo com início da sertralina e mudança de rotina (trabalho sentado ~15h/dia).
-- **Implicação**: massa magra estimada de ~65 kg é consistente com o histórico (79 kg a ~17–18% ≈ 65 kg de magra). Confirma o alvo de 76–78 kg como o ponto de ~15%.
+- **Implicação**: massa magra hoje ~65 kg contra ~71 kg no auge → perdeu ~6 kg de magra no destreino. Esses 6 kg são exatamente o alvo da Fase B, e são terreno de memória muscular (reconquista, não construção).
 - Musculatura prévia = memória muscular real. Recuperação de força e volume nas primeiras 8–16 semanas deve ser bem mais rápida que a de um iniciante.
 
 ## Metas
-- Principal: perder gordura preservando massa magra. **Alvo revisado: 76–78 kg** (~15% de gordura). 70 kg exigiria ~7% de gordura com massa magra intacta — inviável; ver `decisoes.md`.
+- **Alvo real: 85 kg com massa magra** — era o peso dele treinando bem, estável como relógio. Não é meta de balança, é meta de composição.
+- Caminho: **Fase A** — cortar para ~79 kg (gordura ~14 kg, ~17%). **Fase B** — reconstruir até 85 kg ganhando massa magra (~15% de gordura).
+- Os 70 kg citados na conversa original eram do Fernando, **não** do Tiago. Descartado.
 - Secundárias: energia estável para trabalhar, destravar encurtamento das pernas
