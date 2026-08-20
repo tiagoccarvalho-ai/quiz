@@ -11,16 +11,16 @@
 - % gordura estimada: a definir (foto ou bioimpedância)
 
 ## Saúde
-- Doenças/condições conhecidas: ruptura parcial (~50%) do supraespinhal do ombro direito. Outras: ?
-- Medicações: nenhuma para emagrecer (sem GLP-1 no momento). Outras: ?
+- Doenças/condições conhecidas: ruptura parcial (~50%) do supraespinhal do ombro direito (ortopedista liberou beach tennis com ressalvas; fisioterapia avaliada, ainda não iniciada)
+- Medicações: **sertralina 50 mg/dia há 9 meses** (confirmar dose). Nenhuma medicação para emagrecer.
 - Alergias/intolerâncias: ?
 - Exames recentes (colocar .md em `projeto-saude/exames/`): ?
 
 ## Rotina
 - Horário de trabalho: ~09:00–00:00, sentado
-- Sono (horas / qualidade): ?
+- Sono: **5h30–6h** — dorme depois de 00:00, acorda 06:30. Ponto crítico do projeto.
 - Passos/dia estimados: ?
-- Álcool, cafeína, tabaco: ?
+- Álcool: algumas cervejas ao longo da semana (quantificar). Cafeína/tabaco: ?
 
 ## Alimentação
 - Refeições por dia: poucas refeições grandes (2–3/dia), sem lanches
@@ -29,7 +29,7 @@
 - Alimentos que detesta: ?
 
 ## Treino
-- Frequência atual: 2x/semana academia (retomando após ~2,5 anos parado) + treino de fisioterapia para reabilitação do ombro direito
+- Frequência atual: 2x/semana academia + beach tennis com certa frequência (quantificar) (retomando após ~2,5 anos parado) + treino de fisioterapia para reabilitação do ombro direito
 - Local: academia 2x/semana; em casa: 2 halteres de 10 kg, 2 de 1 kg, faixa elástica
 - Experiência com musculação: já treinou pesado no passado; 2,5 anos destreinado
 - Lesões/limitações: ombro direito — ruptura parcial 50% do supraespinhal (em reabilitação). Trabalho sentado ~15h/dia, pernas encurtadas.
