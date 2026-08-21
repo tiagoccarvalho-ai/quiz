@@ -77,6 +77,7 @@ TDEE estimado: **~2.700 kcal**. Ingestão na semana 7+: **2.150 kcal** (déficit
 Proteína sobe para **180 g** — mais volume de treino, mais demanda de reparo. Carboidrato absorve o resto do aumento (~200 g), porque é ele que sustenta sessão dupla.
 
 ## Preferências e restrições práticas (2026-08-21)
-- **Quark light LacLélo — pote de 200 g.** Usar como complemento (~50 g/porção), não como base proteica. 150 g/dia é inviável (3/4 do pote por dia). Valores nutricionais exatos: **pendente** (tabela do rótulo ainda não lida).
+- **Quark light LacLélo — pote de 200 g.** Rótulo registrado em `produtos.md`: 103 kcal e apenas **8,8 g de proteína** por 100 g, com 5,8 g de gordura. Não é fonte de proteína — usar na porção do rótulo (30 g) como acompanhamento. Para proteína láctea, preferir iogurte grego natural zero ou cottage.
 - **Proteína do café da manhã vem do ovo**, por preferência dele. Ver `diario/2026-08-21.md` para as 5 variações de café (~40 g P cada).
+- **Registrar todo rótulo novo em `produtos.md`** antes de usar em cálculo. Nunca estimar por nome do produto — "quark light" no Brasil pode ser creme de leite fermentado, com metade da proteína do quark tradicional.
 - Regra geral ao propor comida: verificar o tamanho real da embalagem antes de sugerir a porção. Sugestão que consome um pote em 1–2 dias não sobrevive à rotina.
