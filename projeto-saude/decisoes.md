@@ -11,3 +11,6 @@
 | 2026-08-20 | **Alvo corrigido: 85 kg com massa magra**, não 70 kg | Os 70 kg eram do Fernando na conversa original. O peso do Tiago treinando bem sempre foi 85 kg. |
 | 2026-08-20 | Projeto dividido em Fase A (corte até ~79 kg) e Fase B (reconstrução até 85 kg) | Com 22 kg de gordura hoje, ganhar massa antes de cortar só adicionaria gordura. |
 | 2026-08-20 | Déficit reduzido de ~700 para ~550 kcal; ingestão 1.800 → 1.950 kcal | O objetivo final é ganhar massa magra, não só emagrecer. Déficit menor protege a massa e sustenta a readaptação de treino com memória muscular. |
+| 2026-08-20 | Adicionadas 2 corridas de 5 km/semana, com rampa progressiva de 6 semanas | Ele corria bem antes; condicionamento volta rápido, tendão não. Entrada direta em 5 km com 87 kg = risco alto de tendinite. |
+| 2026-08-20 | Escada do prédio: só subida, descida de elevador. Substituta de corrida, não sessão extra | Descida excêntrica repetitiva castiga joelho e prejudica o treino de força. |
+| 2026-08-20 | Ingestão sobe para 2.100 kcal quando a corrida estiver em 5 km (semana 7+) | TDEE vai a ~2.650. Sem o ajuste o déficit iria a ~850 e comeria massa magra. |

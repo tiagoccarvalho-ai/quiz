@@ -55,3 +55,44 @@ Alvo: quem passa ~15 h sentado.
 4. Mobilidade torácica (rotação deitado de lado) — 8 por lado
 5. Gato-camelo — 10 repetições
 Além disso: levantar 2 min a cada 60–90 min de trabalho. Isso vale mais que a sessão de alongamento.
+
+---
+
+# Agenda semanal (v2 — com corrida e escada)
+
+Carga total pretendida: 2 musculação + 2 beach tennis + 2 corridas + fisioterapia. Isso é **6 a 7 sessões por semana** dormindo 5h30, em déficit calórico, aos 44 anos, voltando de 2,5 anos parado. É muito. Por isso entra **em degraus**, não de uma vez.
+
+## Modelo semanal alvo (a partir da semana 5)
+| Dia | Sessão |
+|---|---|
+| Seg | Musculação A + fisio ombro |
+| Ter | Corrida 5 km (leve) |
+| Qua | Beach tennis |
+| Qui | Musculação B + fisio ombro |
+| Sex | Corrida 5 km ou escada |
+| Sáb | Beach tennis |
+| Dom | Descanso + mobilidade 10 min |
+
+Regra fixa: **musculação de pernas e corrida nunca no mesmo dia**, e nunca em dias consecutivos com corrida forte. A musculação tem prioridade — é ela que segura a massa magra. Se algo tiver que cair da semana, cai a corrida, nunca o treino de força.
+
+## Volta à corrida — progressão obrigatória
+Você corria bem, mas o tendão de Aquiles, a fáscia plantar e o joelho não sabem disso: eles readaptam bem mais devagar que o condicionamento. Correr 5 km direto na primeira semana com 87 kg é a receita clássica de tendinite que para o projeto por 2 meses.
+
+| Semana | Sessão |
+|---|---|
+| 1–2 | Caminhada/corrida alternada: 5 × (3 min corrida / 2 min caminhada) — 2x/semana |
+| 3–4 | 4 × (6 min corrida / 2 min caminhada) |
+| 5–6 | Corrida contínua 25–30 min |
+| 7+ | 5 km contínuos, 2x/semana |
+
+Ritmo: **conversacional**. Se não consegue falar uma frase inteira correndo, está rápido demais. Corrida aqui é gasto calórico e saúde cardiovascular, não performance — intensidade alta só rouba recuperação da musculação.
+
+## Escada de emergência
+Excelente ferramenta: gasto alto, zero deslocamento, cabe em 15 min no meio do expediente.
+- Formato: **subir** 8–12 andares em ritmo forte, **descer de elevador**, repetir 6–10 vezes.
+- **Desça sempre de elevador.** A descida é contração excêntrica repetitiva — é o que destrói joelho e panturrilha e gera dor muscular que atrapalha o treino de força. O ganho está na subida.
+- Use como **substituto** de uma corrida em dia de chuva ou agenda apertada, não como sessão extra.
+- Bônus: 3–4 lances de escada 2x ao dia, no meio do trabalho, valem mais para o gasto diário (NEAT) do que parece — e quebram o tempo sentado.
+
+## Sinais de que a carga passou do ponto
+Cargas caindo 2 sessões seguidas, dor articular que não some em 48 h, sono piorando ainda mais, ou vontade de faltar que não passa. **Resposta: corta uma corrida.** Não corta musculação, não corta comida.

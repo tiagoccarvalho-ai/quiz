@@ -63,3 +63,11 @@ Entrar em superávit leve de **200–300 kcal** (~2.700 kcal), proteína mantida
 Meta: 79 → 85 kg recuperando os ~6 kg de massa magra perdidos no destreino. Prazo realista com memória muscular: 8 a 12 meses.
 
 **Gatilho de troca de fase**: peso ~79 kg *e* cargas de treino em progressão consistente. Não trocar antes.
+
+### Ajuste por carga de treino (Fase A)
+| Momento | TDEE estimado | Ingestão |
+|---|---|---|
+| Semanas 1–6 (rampa da corrida) | ~2.500 | **1.950 kcal** |
+| Semana 7+ (2 corridas de 5 km firmes) | ~2.650 | **2.100 kcal** |
+
+O déficit permanece em ~550. Mais treino não significa comer menos — significa comer mais e continuar perdendo. Cortar comida *e* aumentar gasto ao mesmo tempo é como se perde massa magra.

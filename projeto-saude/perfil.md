@@ -30,13 +30,14 @@
 
 ## Treino
 - Frequência atual: 2x/semana academia + beach tennis 2x/semana (retomando após ~2,5 anos parado) + treino de fisioterapia para reabilitação do ombro direito
-- Local: academia 2x/semana; em casa: 2 halteres de 10 kg, 2 de 1 kg, faixa elástica
+- Local: academia 2x/semana; corrida na rua; escada de emergência do prédio disponível; em casa: 2 halteres de 10 kg, 2 de 1 kg, faixa elástica
 - Experiência com musculação: já treinou pesado no passado; 2,5 anos destreinado
 - Lesões/limitações: ombro direito — ruptura parcial 50% do supraespinhal (em reabilitação). Trabalho sentado ~15h/dia, pernas encurtadas.
 
 ## Histórico
 - Sempre praticou esporte. No melhor momento: musculação 3x/semana + corrida, **85 kg a ~16% de gordura → ~71 kg de massa magra**. Peso extremamente estável nessa época.
-- Parou o tênis → começou a engordar.
+- Parou o **beach tennis** → começou a engordar.
+- Corria bem antigamente. Voltar a correr é reativação, não iniciação — mas os tendões estão 2,5 anos destreinados.
 - Há 8 meses: **79–80 kg**. Ganhou ~7–8 kg desde então, coincidindo com início da sertralina e mudança de rotina (trabalho sentado ~15h/dia).
 - **Implicação**: massa magra hoje ~65 kg contra ~71 kg no auge → perdeu ~6 kg de magra no destreino. Esses 6 kg são exatamente o alvo da Fase B, e são terreno de memória muscular (reconquista, não construção).
 - Musculatura prévia = memória muscular real. Recuperação de força e volume nas primeiras 8–16 semanas deve ser bem mais rápida que a de um iniciante.
