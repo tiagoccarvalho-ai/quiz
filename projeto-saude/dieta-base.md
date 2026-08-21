@@ -75,3 +75,8 @@ O déficit permanece em ~550. Mais treino não significa comer menos — signifi
 ### Ajuste v2.1 — agenda completa (3 força + 2 corridas + 2 beach tennis)
 TDEE estimado: **~2.700 kcal**. Ingestão na semana 7+: **2.150 kcal** (déficit ~550).
 Proteína sobe para **180 g** — mais volume de treino, mais demanda de reparo. Carboidrato absorve o resto do aumento (~200 g), porque é ele que sustenta sessão dupla.
+
+## Preferências e restrições práticas (2026-08-21)
+- **Quark light LacLélo — pote de 200 g.** Usar como complemento (~50 g/porção), não como base proteica. 150 g/dia é inviável (3/4 do pote por dia). Valores nutricionais exatos: **pendente** (tabela do rótulo ainda não lida).
+- **Proteína do café da manhã vem do ovo**, por preferência dele. Ver `diario/2026-08-21.md` para as 5 variações de café (~40 g P cada).
+- Regra geral ao propor comida: verificar o tamanho real da embalagem antes de sugerir a porção. Sugestão que consome um pote em 1–2 dias não sobrevive à rotina.
