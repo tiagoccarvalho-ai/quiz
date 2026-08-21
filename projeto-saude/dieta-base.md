@@ -71,3 +71,7 @@ Meta: 79 → 85 kg recuperando os ~6 kg de massa magra perdidos no destreino. Pr
 | Semana 7+ (2 corridas de 5 km firmes) | ~2.650 | **2.100 kcal** |
 
 O déficit permanece em ~550. Mais treino não significa comer menos — significa comer mais e continuar perdendo. Cortar comida *e* aumentar gasto ao mesmo tempo é como se perde massa magra.
+
+### Ajuste v2.1 — agenda completa (3 força + 2 corridas + 2 beach tennis)
+TDEE estimado: **~2.700 kcal**. Ingestão na semana 7+: **2.150 kcal** (déficit ~550).
+Proteína sobe para **180 g** — mais volume de treino, mais demanda de reparo. Carboidrato absorve o resto do aumento (~200 g), porque é ele que sustenta sessão dupla.

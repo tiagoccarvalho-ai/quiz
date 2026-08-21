@@ -96,3 +96,42 @@ Excelente ferramenta: gasto alto, zero deslocamento, cabe em 15 min no meio do e
 
 ## Sinais de que a carga passou do ponto
 Cargas caindo 2 sessões seguidas, dor articular que não some em 48 h, sono piorando ainda mais, ou vontade de faltar que não passa. **Resposta: corta uma corrida.** Não corta musculação, não corta comida.
+
+---
+
+# Agenda v3 — capacidade confirmada (2026-08-20)
+
+Tiago confirmou que 1 atividade/dia (às vezes 2) é confortável. Volume aceito. A capacidade extra vai para **uma terceira sessão de força em casa**, não para mais cardio: o gargalo do objetivo (85 kg com massa magra) é volume de força, e ele só tem 2 dias de academia.
+
+| Dia | Sessão |
+|---|---|
+| Seg | Musculação A (academia) + fisio ombro |
+| Ter | Corrida + mobilidade 10 min |
+| Qua | Beach tennis |
+| Qui | Musculação B (academia) + fisio ombro |
+| Sex | **Treino C em casa** + escada |
+| Sáb | Beach tennis + corrida (dia duplo, se a semana permitir) |
+| Dom | Descanso ativo: caminhada + mobilidade |
+
+## Treino C — casa (2 halteres de 10 kg, 2 de 1 kg, faixa elástica)
+Foco em pernas unilateral e puxada — o que os 10 kg ainda desafiam, e o que a academia 2x/semana deixa sub-dosado.
+
+| Exercício | Séries × reps |
+|---|---|
+| Agachamento búlgaro (halteres) | 3 × 12 por perna |
+| Afundo caminhando ou estacionário | 3 × 10 por perna |
+| Stiff com halteres | 3 × 12 |
+| Remada unilateral com halter (apoiado) | 3 × 12 por lado |
+| Elevação de panturrilha unilateral | 3 × 15 por perna |
+| Face pull + rotação externa (elástico) | 3 × 15 |
+| Prancha + prancha lateral | 3 × 40 s |
+
+Com 10 kg, a intensidade vem de **cadência lenta (3 s na descida), pausa embaixo e reps altas até RIR 1–2**, não de carga. Unilateral resolve boa parte do problema: búlgaro com 2×10 kg em 12 reps lentas é trabalho real de quadríceps e glúteo.
+
+Quando 15 reps ficarem fáceis em tudo: mochila com peso, ou compra de um par de halteres de 16–20 kg — o melhor investimento possível para este plano.
+
+## O que continua valendo
+- Rampa de 6 semanas na corrida — **mantida**. Não é sobre capacidade de esforço, é sobre readaptação de tendão, que é lenta independentemente do quanto ele aguenta.
+- Restrições do ombro direito — mantidas integralmente.
+- Musculação tem prioridade sobre corrida se a semana apertar.
+- Volume alto + sono de 5h30 = monitorar cargas semanalmente. Cargas caindo 2 sessões seguidas é o sinal.

@@ -14,3 +14,5 @@
 | 2026-08-20 | Adicionadas 2 corridas de 5 km/semana, com rampa progressiva de 6 semanas | Ele corria bem antes; condicionamento volta rápido, tendão não. Entrada direta em 5 km com 87 kg = risco alto de tendinite. |
 | 2026-08-20 | Escada do prédio: só subida, descida de elevador. Substituta de corrida, não sessão extra | Descida excêntrica repetitiva castiga joelho e prejudica o treino de força. |
 | 2026-08-20 | Ingestão sobe para 2.100 kcal quando a corrida estiver em 5 km (semana 7+) | TDEE vai a ~2.650. Sem o ajuste o déficit iria a ~850 e comeria massa magra. |
+| 2026-08-20 | Volume semanal ampliado: adicionado **Treino C de força em casa** (sexta) | Tiago confirmou capacidade para 1-2 atividades/dia. Capacidade extra alocada em força, não cardio — o gargalo de 85 kg com massa magra é volume de força, e só há 2 dias de academia. |
+| 2026-08-20 | Ingestão sobe para 2.150-2.200 kcal com a agenda completa | TDEE ~2.700-2.750 com 3 sessões de força, 2 corridas, 2 beach tennis. Déficit mantido em ~550. |
