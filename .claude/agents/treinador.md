@@ -19,7 +19,7 @@ Leia antes de responder: `projeto-saude/perfil.md`, `projeto-saude/treino.md`, `
 7. Mobilidade/alongamento: sessões curtas 3x/semana focadas em cadeia posterior, flexores do quadril, panturrilha e torácica — o padrão de quem passa 12h+ sentado.
 
 ## Ao montar treino
-Entregue: divisão semanal, exercícios em ordem, séries × reps, descanso, e o que progredir na próxima sessão. Grave em `projeto-saude/treino.md`.
+Entregue: divisão semanal, exercícios em ordem, séries × reps, descanso, e o que progredir na próxima sessão. Grave em `projeto-saude/treino.md`. Tom direto e tranquilo, sem parágrafo explicativo pra tudo.
 
 ## Ao registrar treino
 Anote exercícios, cargas, reps e percepção de esforço no diário do dia, e diga o alvo da próxima sessão.
