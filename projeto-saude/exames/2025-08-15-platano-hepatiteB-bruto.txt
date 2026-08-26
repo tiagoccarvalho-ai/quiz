@@ -1,0 +1,238 @@
+HEPATITE B, HBSAG - ANTÍGENO AUSTRÁLIA
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 11:44
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado
+(conclusão):
+Não reagente  
+Não reagente
+ 
+Resultado
+(índice)...:
+Inferior a 0,03 UI/mL
+Não reagente.: Abaixo de 0,05 UI/mL
+Reagente.....: >= a 0,05 UI/mL
+Especificidade do teste: 99,98%
+Sensibilidade do teste.: 99,10%
+ 
+ 
+Interpretação do quadro sorológico
+HBsAg
+HBeAg
+anti-HBcIgM
+anti-HBc
+anti-HBe
+anti-HBs
++
+-
+-
+-
+-
+-
+Fase inicial
++
++
+-
+-
+-
+-
+Fase inicial
++
++
++
++
+-
+-
+Fase inicial
++
++
+-
++
+-
+-
+Fase Aguda Final ou Hep. Crônica
++
+-
+-
++
++
+-
+Fase Aguda Final ou Hep. Crônica
+-
+-
+-
++
++
++
+Infecção Passada
+-
+-
+-
++
+-
++
+Infecção Passada
+-
+-
+-
+-
++
++
+Infecção Passada
+-
+-
+-
+-
+-
++
+Resposta Vacinal
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 858266765F
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:58
+Documento....:036.010.369-32
+Número da OS...:506-67432-685
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:29
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:1/3
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+HEPATITE B, ANTI-HBS
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 11:30
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+Inferior a 3,0 mUI/mL
+Não Reagente.: Inferior a 9,0 mUI/mL
+Indeterminado: 9,0 e 10,9 mUI/mL
+Reagente.....: >= a 11,0 mUI/mL
+Sensibilidade do teste.: 97,30%
+Especificidade do teste: 98,30%
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: 8E982C1FAB
+ 
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:58
+Documento....:036.010.369-32
+Número da OS...:506-67432-685
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:29
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:2/3
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+Laudo comparativo
+ 
+Res. atual
+Resultados anteriores
+Valores de referência
+Exame
+15/08/2025
+--
+HbsAg
+Não reagente
+--
+Não reagente
+Anti-Hbs
+Inferior a 3,0
+--
+Reagente se >= 11,0 mUI/mL
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:58
+Documento....:036.010.369-32
+Número da OS...:506-67432-685
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:29
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:3/3
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191

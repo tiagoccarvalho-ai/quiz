@@ -14,7 +14,17 @@
 - Doenças/condições conhecidas: ruptura parcial (~50%) do supraespinhal do ombro direito (ortopedista liberou beach tennis com ressalvas; fisioterapia avaliada, ainda não iniciada)
 - Medicações: **sertralina 50 mg/dia há 9 meses** (confirmado). Nenhuma medicação para emagrecer.
 - Alergias/intolerâncias: ?
-- Exames recentes (colocar .md em `projeto-saude/exames/`): ?
+- Esposa é médica, especialista em medicina integrativa e funcional — conduta clínica passa por ela.
+- **Exames 15/08/2025** (`exames/2025-08-15-platano.md`), com série histórica desde 2023:
+  - Metabolismo de glicose **excelente**: HbA1c 5,3%, HOMA-IR 1,20 — **sem resistência à insulina**
+  - Triglicerídeos 110 (eram 419 em fev/23 — melhora enorme)
+  - **T4 livre 0,59** (ref 0,54–1,48) — no fundo da faixa, caiu de 1,07 em 2023. Ponto de atenção nº 1.
+  - **Testosterona total 325** (273–961), SHBG 13,3 (no limite inferior), testosterona livre 9,78 (normal)
+  - Ferritina 340,6 (levemente alta), sem inflamação (PCR 0,4, VHS 2)
+  - **Vitamina D 22** — baixa e estável baixa há 3 anos
+  - Colesterol total 196 / LDL 127 — subindo
+  - **Anti-HBs <3,0** — sem imunidade a hepatite B, vacinação indicada
+  - Fígado, rins, hemograma, ferro, B12, zinco, magnésio: normais
 
 ## Rotina
 - Horário de trabalho: ~09:00–00:00, sentado

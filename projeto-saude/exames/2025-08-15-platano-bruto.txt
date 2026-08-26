@@ -1,0 +1,2606 @@
+HEMOGRAMA COMPLETO
+ 
+Material:
+Sangue EDTA
+Coleta   : 15/08/2025 - 08:21
+Método  :
+Automatizado - Impedância + citometria de fluxo
+Liberação: 15/08/2025 - 10:22
+ 
+ERITROGRAMA
+Intervalos de Referência:
+ 
+Hemácias...................:
+5,06 milhões/mm³
+    4,5 a   6,1 milh/mm³
+Hemoglobina................:
+15,1 g/dL
+   13,5 a   18,0 g/dL
+Hematócrito................:
+44,9 %
+   40,0 a   54,0 %
+Vol. Glob. Médio...........:
+88,7 fL
+   80,0 a   98,0 fL
+Hem. Glob. Média...........:
+29,8 pg
+   26,0 a   34,0 pg
+C.H.Glob.Média.............:
+33,6 g/dL
+   31,0 a   37,0 g/dL
+RDW........................:
+13,2 %
+   Até 15,5%
+ 
+LEUCOGRAMA
+Intervalos de Referência:
+ 
+Leucócitos (cont. global):
+6.900
+ /mm³
+3.600 a 11.000/mm³
+ 
+ 
+Eosinófilos................:
+4 %
+276 /mm³
+     0 a    735/mm³
+Basófilos..................:
+0 %
+0 /mm³
+     0 a    315/mm³
+Linfócitos Típicos.........:
+42 %
+2.898 /mm³
+   860 a  5.000/mm³
+Monócitos..................:
+8 %
+552 /mm³
+    90 a  1.050/mm³
+Bastonetes.................:
+0 %
+0 /mm³
+     0 a    525/mm³
+Segmentados................:
+46 %
+3.174 /mm³
+ 1.900 a  7.350/mm³
+ 
+PLAQUETAS
+Intervalos de Referência:
+ 
+Plaquetas.............:
+221.000 /mm³
+140.000 a 450.000 /mm³
+VPM...................:
+8,0 fL
+    7,0 a  12,0   fL
+ 
+ 
+Resultados anteriores HEMOGLOBINA:
+Resultados anteriores LEUCÓCITOS:
+21/09/2023 - 14,7
+11/02/2023 - 14,5
+21/09/2023 - 5.700
+11/02/2023 - 7.100
+ 
+Resultados anteriores PLAQUETAS:
+Resultados anteriores BASTONETES:
+21/09/2023 - 192.000
+11/02/2023 - 194.000
+21/09/2023 - 0
+11/02/2023 - 0
+Liberado eletronicamente por Dra. Camila L. Sperandio - CRBM/6: 3.734
+Assinatura digital avançada: D044C62038
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:1/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:2/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+FERRO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+108 µg/dL
+Adultos: 50 a 212 µg/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: A9C60950A2
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+50
+100
+150
+200
+250
+57
+106
+108
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:3/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+FERRO - TIBC (Capacidade total de ligação do ferro) e SATURAÇÃO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico automatizado
+Liberação:
+15/08/2025 - 12:22
+ 
+ 
+ 
+  
+Intervalo de Referência:
+TIBC (capacidade
+total de ligação):
+342 µg/dL
+250 a 425 ug/dL
+ 
+Ferro sérico:
+108 µg/dL
+Adultos: 50 a 212 µg/dL
+ 
+Capacidade latente:
+234 µg/dL
+ 
+ 
+Saturação:
+32 %
+20 a 50 %
+ 
+ 
+ 
+Liberado eletronicamente por Dra. Jessica Sobieray Szymanski - CRBM/PR 7848
+Assinatura digital avançada: CEADBF65B6
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+200
+300
+400
+500
+600
+331
+346
+342
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+50
+100
+150
+200
+250
+57
+106
+108
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+10
+20
+30
+40
+50
+60
+17
+31
+32
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:4/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+FERRITINA
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 11:03
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+340,6 ng/mL
+Homens..: 23,9 a 336,2 ng/mL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+PROTEÍNA C REATIVA
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Turbidimetria
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+0,4 mg/L
+Normal: Inferior a 5,0 mg/L
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+VELOCIDADE DE HEMOSSEDIMENTAÇÃO
+ 
+Material:
+Sangue EDTA
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Fotometria capilar
+Liberação:
+15/08/2025 - 10:32
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+2 mm
+Masculino: 0 a 15 mm na 1ª hora
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 24F952B897
+ 
+ 
+Assinatura digital avançada: B0331D51CC
+ 
+ 
+Assinatura digital avançada: 29AED19394
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+100
+200
+300
+400
+500
+320,3
+255,2
+340,6
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:5/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+GLICOSE
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico Enzimático
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+94 mg/dL
+Normal......: até 99 mg/dL
+Pré-diabetes: 100 a 125 mg/dL
+Diabetes....: maior que 125 mg/dL
+Referência: diretriz da SBD (2022).
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: F6F7A875C3
+ 
+ 
+11/02/23
+08:42
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+40
+60
+80
+100
+120
+92
+91
+96
+94
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:6/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+INSULINA E ÍNDICE HOMA-IR
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Insulina:
+5,18 µUI/mL
+1,90 a 23,00 µUI/mL
+ 
+Índice HOMA-IR:
+1,20  
+Referências para a interpretação do HOMA-IR em adultos.
+Fonte: Dir. Bras. de Diabetes (2019-20):
+Normal se < 2,71 (Geloneze et al)
+Normal se < 2,91 (Silva et al)
+Normal se < 1,65 (Rocco et al)
+Normal se < 1,95 (Rocco et al)
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: AFF64FFEF3
+ 
+ 
+04/03/23
+08:01
+15/08/25
+08:21
+0
+10
+20
+30
+4,75
+5,18
+04/03/23
+08:01
+15/08/25
+08:21
+0
+1
+2
+3
+4
+1,07
+1.20
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:7/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+HEMOGLOBINA GLICADA (HbA1C)
+ 
+Material:
+Sangue EDTA
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+HPLC (Cromatografia liquida de alta performance)
+Liberação:
+16/08/2025 - 11:20
+ 
+ 
+ 
+  
+Intervalo de Referência:
+HbA1c:
+5,3 %
+Normal......: Menor que 5,7%
+Pré-diabetes: 5,7 a 6,4%
+Diabetes....: Maior ou igual a 6,5%
+Meta terapêutica:
+Pacientes DM1 ou DM2 menor que 7,0%
+Idoso Saudável menor que 7,5%
+Idoso Comprometido menor que 8,5%
+Criança e Adolescente menor que 7,0%
+Referência: Diretriz Oficial da Sociedade Brasileira de
+Diabetes (2022)
+ 
+Glicose média
+estimada:
+105 mg/dL
+ 
+ 
+ 
+Notas:
+Para o diagnóstico do diabetes valores superiores a 6,5% devem ser confirmados por repetição em nova amostra em uma segunda
+ocasião. O método utilizado nesta dosagem de hemoglobina é certificado pelo National Glycohemoglobin Standardization Program -
+USA (NGSP). 
+ 
+ 
+ 
+Liberado eletronicamente por Dra. Josiane Pazini - CRF/PR: 34.619
+Assinatura digital avançada: A7EEA47352
+Exame realizado pelo DB Diagnósticos (CNES: 6733621).
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:8/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+COLESTEROL TOTAL
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico Enzimático
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+196 mg/dL
+Adultos (maiores de 20 anos):
+Desejável: < 190 mg/dL, com ou sem jejum
+* Dir. Bras. de Dislip. e Pr. da Aterosc. (2025)
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+COLESTEROL HDL
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico Enzimático
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+47 mg/dL
+Maior que 40 mg/dL (com ou sem jejum)
+* Dir. Bras. de Dislip. e Pr. da Aterosc. (2025)
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: 24F9585861
+ 
+ 
+Assinatura digital avançada: D49F21E621
+ 
+ 
+11/02/23
+08:42
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+50
+100
+150
+200
+250
+183
+168
+174
+196
+11/02/23
+08:42
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+20
+40
+60
+80
+100
+34
+45
+42
+47
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:9/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+COLESTEROL LDL E COLESTEROL NÃO-HDL
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Calculado - Fórmula de Martin/Hopkins
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Colesterol LDL:
+127 mg/dL
+Metas de LDL para pacientes acima de 20 anos:
+Meta para pessoas com risco baixo: < 115 mg/dL
+Meta para pessoas com risco médio: < 100 mg/dL
+Meta para pessoas com risco alto.: < 70 mg/dL
+Meta para pessoas com risco muito alto: < 50 mg/dL
+Meta para pessoas com risco extremo: < 40 mg/dL
+* Dir. Bras. de Dislip. e Pr. da Aterosc. (2025)
+ 
+Colesterol não-HDL:
+149 mg/dL
+Metas de não-HDL conforme grupo de risco:
+Meta para pessoas com risco baixo: < 145 mg/dL
+Meta para pessoas com risco médio: < 130 mg/dL
+Meta para pessoas com risco alto.: < 100 mg/dL
+Meta para pessoas com risco muito alto: < 80 mg/dL
+Meta para pessoas com risco extremo: < 70 mg/dL
+* Dir. Bras. de Dislip. e Pr. da Aterosc. (2025)
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 7E66EB02A4
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:10/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+TRIGLICERÍDEOS
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico Enzimático
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+110 mg/dL
+Adultos maiores de 20 anos:
+Desejável: Inferior a 150 mg/dL com jejum
+Desejável: Inferior a 175 mg/dL sem jejum
+* Dir. Bras. de Dislip. e Pr. da Aterosc. (2025)
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+HOMOCISTEÍNA
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+16/08/2025 - 13:59
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+8,45 µmol/L
+5,46 a 16,20 µmol/L
+ 
+ 
+ 
+Liberado eletronicamente por Dra. Josiane Pazini - CRF/PR: 34.619
+Assinatura digital avançada: 6DCBB153BC
+ 
+ 
+Assinatura digital avançada: E8A8F319C6
+Exame realizado pelo DB Diagnósticos (CNES: 6733621).
+ 
+ 
+11/02/23
+08:42
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+0
+100
+200
+300
+400
+500
+600
+419
+101
+121
+110
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:11/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+CREATININA
+Material:
+Soro
+Coleta:
+15/08/2025 - 08:21
+Método:
+Cinético automatizado
+Liberação: 15/08/2025 - 12:15
+ 
+ 
+Intervalo de Referência:
+Resultado:
+1,08
+ mg/dL
+ 
+Homens..: Até 1,30 mg/dL
+ 
+ 
+ESTIMATIVA DA TAXA DE FILTRAÇÃO GLOMERULAR (eTFG) - CKD-EPI, 2021:
+ 
+Intervalo de Referência:
+Estimativa TFG:
+84 mL/min/1,73 m2
+Normal (estágio G1): > 90 mL/min/1,73 m²
+Estágio G2.........: 60 a 89 mL/min/1,73 m²
+Estágio G3a........: 45 a 59 mL/min/1,73 m²
+Estágio G3b........: 30 a 44 mL/min/1,73 m²
+Estágio G4.........: 15 a 29 mL/min/1,73 m²
+Estágio G5.........: < 15 mL/min/1,73 m²
+Fonte: KDIGO, 2013
+ 
+Notas:
+- A estimativa da TFG não deve ser utilizada em indivíduos hospitalizados com concentrações de creatinina instáveis,
+principalmente pacientes com IRA.
+- O uso da estimativa da TFG também não é recomendado em indivíduos com dietas vegetarianas ou que fazem uso de suplementos de
+creatina, em extremos de massa muscular (amputados, paraplégicos, desnutridos, fisiculturistas), e em gestantes.
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: 3032E3A6C4
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0,8
+1
+1,2
+1,4
+1,6
+1,13
+1,28
+1,08
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:12/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+UREIA
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Cinético automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+45 mg/dL
+11 a 43 mg/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+SÓDIO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Eletrodo Seletivo
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+139 mEq/L
+136 a 145 mEq/L
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: FB86ABA730
+ 
+ 
+Assinatura digital avançada: 0DC1CB65BA
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+10
+20
+30
+40
+50
+60
+38
+44
+45
+11/02/23
+08:42
+15/08/25
+08:21
+100
+120
+140
+160
+180
+138
+139
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:13/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+POTÁSSIO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Eletrodo Seletivo
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+4,8 mEq/L
+3,5 a 5,5 mEq/L
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+CÁLCIO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Enzimático Automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+9,4 mg/dL
+8,6 a 10,3 mg/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 5B3E742604
+ 
+ 
+Assinatura digital avançada: 41CC21B656
+ 
+ 
+11/02/23
+08:42
+15/08/25
+08:21
+2
+3
+4
+5
+6
+7
+4,3
+4,8
+21/09/23
+07:33
+15/08/25
+08:21
+6
+8
+10
+12
+14
+9,5
+9,4
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:14/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+ÁCIDO ÚRICO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Enzimático Automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+5,2 mg/dL
+Masculino: 3,5 a 7,2 mg/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+MAGNÉSIO
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+2,2 mg/dL
+Masculino: 1,8 a 2,6 mg/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 46E432678E
+ 
+ 
+Assinatura digital avançada: DAC53A6283
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+2
+4
+6
+8
+10
+5,0
+6,3
+5,2
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+1
+1,5
+2
+2,5
+3
+3,5
+2,2
+2,2
+2,2
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:15/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+TGO/AST (TRANSAMINASE OXALACETICA)
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Enzimático Automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+19 U/L
+Até 39 U/L
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+TGP/ALT (TRANSAMINASE PIRUVICA)
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Enzimático Automatizado
+Liberação:
+15/08/2025 - 12:15
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+21 U/L
+Até 52 U/L
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: E9E9830FF4
+ 
+ 
+Assinatura digital avançada: 7F2BBD824B
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+10
+20
+30
+40
+50
+15
+20
+19
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+20
+40
+60
+80
+18
+20
+21
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:16/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+VITAMINA B12
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 11:05
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+346 pg/mL
+180 a 914 pg/mL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+VITAMINA C (ÁCIDO ASCÓRBICO)
+ 
+Material:
+Plasma Heparina Congelado
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+LDTD - Espectrometria de Massa (LDTD - MS/MS)
+Liberação:
+20/08/2025 - 16:45
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+30,0 mg/L
+2,0 a 21,0 mg/L
+ 
+ 
+Nota:
+- A interpretação clínica do resultado da vitamina C deve considerar a sua grande dependência de fatores pré-analíticos, tais
+como, centrifugação, congelamento imediato, e proteção da luz.
+-Os intervalos de referência foram verificados na população atendida pelo laboratório.
+-Ensaio desenvolvido e validado pelo laboratório.
+ 
+ 
+ 
+Obs: Os intervalos de referência foram verificados na população atendida pelo laboratório.
+Ensaio desenvolvido e validado pelo laboratório.
+ 
+Liberado eletronicamente por Dra. Josiane Pazini - CRF/PR: 34.619
+Assinatura digital avançada: FEA7A312DD
+ 
+ 
+Assinatura digital avançada: 94F0801DA7
+Exame realizado pelo DASA (CNES: 9043675)
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+200
+400
+600
+800
+1.000
+1.200
+236
+325
+346
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:17/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+VITAMINA D (25 HIDROXI)
+ 
+Material:
+Soro
+Coleta:
+15/08/2025 - 08:21
+Método:
+Quimioluminescência
+Liberação:
+15/08/2025 - 11:08
+ 
+ 
+Intervalo de Referência:
+Resultado:
+22 ng/mL
+ Deficiência.......................: < 20 ng/mL
+Valores normais população geral...: de 20 a 60 ng/mL
+Valores ideais população de risco*: de 30 a 60 ng/mL
+Risco de intoxicação..............: > 100 ng/mL
+ 
+ 
+NOTAS:
+1 - * Entende-se por população de risco: idosos (acima de 65 anos), gestantes, indivíduos com fraturas e quedas frequentes,
+pós-cirurgia bariátrica, em uso de fármacos que interferem no metabolismo da vitamina D, doenças osteometabólicas
+(osteoporose, osteomalácia, osteogênese imperfeita, hiperparatireoidismo primário e secundário), sarcopenia, diabetes
+mellitus tipo 1, doença renal crônica, insuficiência hepática, anorexia nervosa, síndrome de má absorção e câncer;
+2 - Método padronizado de acordo com o NIST SEM 2972 (Material de Referência Padrão do National Institute of Standards &
+Technology - NIST). O Método possui especificidade para a detecção das frações D2 e D3 da Vitamina D;
+3 - Este método apresentou ótima correlação com a espectrometria de massas;
+5 - Mais de 50% da população brasileira apresenta insuficiência para a vitamina D (Int. J. Cardiovasc. Sci. vol.31 no.4 Rio
+de Janeiro July/Aug. 2018).
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: A6367D1E1F
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+20
+40
+60
+80
+25
+21
+22
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:18/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+ZINCO
+ 
+Material:
+Plasma Heparina
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Colorimétrico automatizado
+Liberação:
+15/08/2025 - 12:16
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+84,9 µg/dL
+Adultos:  60,0 a 120,0 µg/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+TSH - HORMÔNIO TIREOESTIMULANTE (Ultrassensível)
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 10:54
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+2,90 mUI/L
+Adultos: 0,40 a 4,50 mUI/L
+ 
+ 
+Nota: Uma variação de até 50% nos níveis de TSH em dias diferentes pode ocorrer mesmo sem que tenha havido alteração no status
+da tireoide. Fonte: Sociedade Americana de Tireoide. Coletas realizadas sempre no mesmo horário reduzem a variação.
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: C51C0FBC37
+ 
+ 
+Assinatura digital avançada: E35D75A218
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+40
+60
+80
+100
+120
+140
+160
+101,8
+80,9
+84,9
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+2
+4
+6
+4,08
+4,52
+2,90
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:19/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+T4 LIVRE - TIROXINA LIVRE
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 10:56
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+0,59 ng/dL
+0,54 a 1,48 ng/dL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+TESTOSTERONA TOTAL
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 10:48
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+325,79 ng/dL
+273,00 a 961,00 ng/dL
+Fonte: Endocrine Society.
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 223041BFFF
+ 
+ 
+Assinatura digital avançada: 8DEB86B8CC
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+0,5
+1
+1,5
+2
+0,84
+1,07
+0,59
+11/02/23
+08:42
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+200
+400
+600
+800
+1.000
+1.200
+371,78
+308,55
+302,73
+325,79
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:20/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+TESTOSTERONA LIVRE E BIODISPONÍVEL
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 11:28
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Testosterona livre:
+9,78 ng/dL
+Homem de 41 a 60 anos: 2,67 a 18,30 ng/dL
+ 
+Test biodisponível:
+229,4 ng/dL
+Homem de 20 a 50 anos: 80,7 a 447,1 ng/dL
+ 
+NOTA: 
+- Substâncias como testosterona, biotina e anticorpos heterófilos podem impactar significativamente os resultados dos
+imunoensaios. 
+- Resultados de testosterona podem variar entre metodologias devido a diferenças nos anticorpos, reagentes e procedimentos de
+calibração utilizados pelos fabricantes. 
+- Interpretações clínicas devem considerar a metodologia empregada e o histórico de resultados do paciente.
+ 
+ 
+SHBG..............:
+13,3 nmol/L
+Homens de 20 a 50 anos: 13,2 a 89,5 nmol/L
+ 
+ 
+ 
+Liberado eletronicamente por Dra. Aline Tonhela Ferraz de Faria - CRF/PR: 40983
+Assinatura digital avançada: E488711F7B
+ 
+ 
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+0
+5
+10
+15
+20
+25
+8,61
+7,88
+9,78
+04/03/23
+08:01
+21/09/23
+07:33
+15/08/25
+08:21
+0
+20
+40
+60
+80
+100
+120
+16,2
+19,2
+13,3
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:21/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+PSA TOTAL
+ 
+Material:
+Soro
+Coleta   :
+15/08/2025 - 08:21
+Método  :
+Quimioluminescência
+Liberação:
+15/08/2025 - 10:54
+ 
+ 
+ 
+  
+Intervalo de Referência:
+Resultado:
+1,52 ng/mL
+Até 60 anos.....: Inferior a 2,50 ng/mL
+Acima de 60 anos: Inferior a 4,00 ng/mL
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+PARASITOLÓGICO DE FEZES
+ 
+Material:
+Fezes
+Coleta...:
+23/08/2025 - 08:58
+Método..:
+Hoffman, Pons e
+Janer                                                         
+                     
+Liberação:
+27/08/2025 - 16:59
+ 
+Resultado:
+Não foram observados ovos, cistos ou larvas na amostra
+analisada.
+ 
+Intervalo de referência: Não foram observados ovos, cistos ou larvas na amostra analisada.
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: 6F3EF86A1D
+ 
+ 
+Assinatura digital avançada: 1DB246AF1B
+ 
+ 
+11/02/23
+08:42
+21/09/23
+07:33
+15/08/25
+08:21
+0
+1
+2
+3
+4
+5
+1,52
+0,84
+1,52
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:22/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+SANGUE OCULTO NAS FEZES (FIT)
+ 
+Material:
+Fezes
+Coleta   :
+23/08/2025 - 08:58
+Método  :
+FIT (teste imunológico fecal)
+Liberação:
+25/08/2025 - 11:44
+ 
+ 
+Intervalo de referência:
+Resultado:
+Não reagente (negativo)
+ 
+Não reagente
+ 
+ 
+Anteriores:
+11/02/2023 - Não reagente (negativo)
+ 
+NOTA: 
+Este exame pesquisa especificamente a hemoglobina humana, evitando as interferências relativas à ingestão de alimentos que
+contenham hemoglobina animal. Desta forma, o resultado torna-se altamente específico para sangramento do TGI. No entanto,
+devem ser seguidas as recomendações para evitar sangramentos, principalmente da gengiva, pois qualquer sangramento na mucosa
+bucal poderá ocasionar resultado reagente. Alguns medicamentos também podem causar sangramentos, principalmente da mucosa
+gástrica, como é o caso dos anti-inflamatórios não-esteroidais. Nestes casos também poderá ocorrer resultado reagente.
+A sensibilidade do teste para sangramentos do TGI é de 46,7% (ALTENBURG, et al. Rev Bras Coloproct, 2007). 
+Exames múltiplos realizados em dias diferentes aumentam a sensibilidade da pesquisa.
+ 
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: 662E912F96
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:23/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+PARCIAL DE URINA
+ 
+Material:
+Urina
+Coleta:
+23/08/2025 - 13:19
+Método:
+Automatizado - Sysmex UN 3000
+Liberação:
+23/08/2025 - 14:03
+ 
+EXAME FÍSICO-QUÍMICO
+Intervalo de referência:
+Cor.....................: Amarelo claro
+  
+Amarelo
+Densidade...............: 1.011
+  
+1.010 a 1.030
+pH......................: 5,5
+  
+5,0 a 6,5
+Nitritos................: Negativo
+  
+Negativo
+Proteínas...............: Negativo
+  
+Negativo
+Glicose.................: Negativo
+  
+Negativo
+Corpos cetônicos........: Negativo
+  
+Negativo
+Urobilinogênio..........: Normal
+  
+Normal
+Bilirrubina.............: Negativo
+  
+Negativo
+Hemoglobina.............: Negativo
+  
+Negativo
+ 
+EXAME MICROSCÓPICO
+Células epiteliais......: Inferior a 500 /mL
+Até 15.000/mL
+Hemácias................: Inferior a 500 /mL
+Até 10.000/mL
+Leucócitos..............:
+500 /mL
+Até 10.000/mL
+Cilindros...............: PRESENTES
+ 
+Ausentes
+Cristais................: PRESENTES
+ 
+Ausentes
+Leveduras...............: Ausentes
+ 
+Ausentes
+ 
+Bacterioscopia de Gram..: Não foram visualizados microrganismos patogênicos
+ 
+ 
+Resultados anteriores Hemácias:
+14/02/2023 - Inferior a 500
+Resultados anteriores Leucócitos: 14/02/2023 - 1.000
+ 
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon.'. - CRF/PR: 15.339
+Assinatura digital avançada: 4FB7C19369
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:24/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+UROCULTURA
+Material:
+Urina
+Coleta:
+23/08/2025 - 08:58
+Método:
+Cultura específica e automação
+Liberação:
+25/08/2025 - 11:34
+ 
+RESULTADO:
+Não houve desenvolvimento de micro-organismos.
+ 
+Liberado eletronicamente por Dr. Jardel Cristiano Bordignon .'. - CRF/MT: 587.429
+Assinatura digital avançada: 8529F1A16A
+ 
+ 
+ 
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:25/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+Laudo comparativo
+ 
+Res. atual
+Resultados anteriores
+Valores de referência
+Exame
+15/08/2025
+21/09/2023
+04/03/2023
+11/02/2023
+Ferro
+108
+106
+--
+57
+50 a 212 µg/dL
+TIBC
+342
+346
+--
+331
+250 a 425 ug/dL
+% saturação
+32
+31
+--
+17
+20 a 50 %
+Ferritina
+340,6
+255,2
+--
+320,3
+23,9 a 336,2 ng/mL
+PCR
+0,4
+--
+--
+--
+< 5,0 mg/L
+VHS
+2
+--
+--
+--
+0-15 mm na 1ª hora
+Glicose
+94
+96
+91
+92
+Até 99 mg/dL
+Insulina
+5,18
+--
+4,75
+--
+1,90 a 23,00 µUI/mL
+Índ. HOMA-IR
+1,20
+--
+1,07
+--
+Ver laudo individual.
+Colesterol total
+196
+174
+168
+183
+< 190 mg/dL
+Colesterol HDL
+47
+42
+45
+34
+> 40 mg/dL
+Colesterol LDL
+127
+--
+--
+--
+Ver laudo individual.
+Col. não-HDL
+149
+--
+--
+--
+Ver laudo individual.
+Colesterol VLDL
+22
+--
+--
+--
+< 30 mg/dL
+Triglicerídeos
+110
+121
+101
+419
+< 150 mg/dL com jejum
+< 175 mg/dL sem jejum
+Creatinina
+1,08
+1,28
+--
+1,13
+Homens..: Até 1,30 mg/dL
+Uréia
+45
+44
+--
+38
+11 a 43 mg/dL
+Sódio
+139
+--
+--
+138
+136 a 145 mEq/L
+Potássio
+4,8
+--
+--
+4,3
+3,5 a 5,5 mEq/L
+Cálcio
+9,4
+9,5
+--
+--
+8,6 a 10,3 mg/dL
+Ácido úrico
+5,2
+6,3
+--
+5,0
+3,5 a 7,2 mg/dL
+Magnésio
+2,2
+2,2
+--
+2,2
+1,8 a 2,6 mg/dL
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:26/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
+
+
+=== PAGINA BREAK ===
+
+TGO
+19
+20
+--
+15
+Até 39 U/L
+TGP
+21
+20
+--
+18
+Até 52 U/L
+Vitamina B12
+346
+325
+--
+236
+180 a 914 pg/mL
+Vitamina C
+30,0
+--
+--
+--
+2,0 a 21,0 mg/L
+Vitamina D
+22
+21
+--
+25
+20 a 60 ng/mL
+Zinco
+84,9
+80,9
+--
+101,8
+60,0 a 120,0 µg/dL
+TSH
+2,90
+4,52
+--
+4,08
+0,40 a 4,50 mUI/L
+T4 livre
+0,59
+1,07
+--
+0,84
+0,54 a 1,48 ng/dL
+Testoster. total
+325,79
+302,73
+308,55
+371,78
+273,00 a 961,00 ng/dL
+Testoster. livre
+9,78
+7,88
+8,61
+--
+2,67 a 18,30 ng/dL
+SHBG
+13,3
+19,2
+16,2
+--
+20-50 anos: 13,2 a 89,5 nmol/L
+PSA total
+1,52
+0,84
+--
+1,52
+Até 60 anos: < 2,50 ng/mL
+> 60 anos..: < 4,00 ng/mL
+Laudo comparativo
+ 
+Res. atual
+Resultados anteriores
+Valores de referência
+Exame
+15/08/2025
+21/09/2023
+04/03/2023
+11/02/2023
+Sr(a)........:TIAGO CESAR CARVALHO DA SILVA
+Idade........:43 anos (
+09/05/1982 )
+Sexo...........:Masculino
+Dr(a)........:CRISTIANE MARCHESE RECUERO
+Data/Hora Atend:15/08/2025 - 07:53
+Documento....:036.010.369-32
+Número da OS...:506-67432-627
+Convênio.....:POLI SAUDE - PLATANO GESTAO
+Impresso em....:26/08/2026 - 10:28
+Resp. Técnico:Camila Lopes Sperandio - CRBM 63734
+Página(s)......:27/27
+Resp. Técnico:
+Página(s)......: / 
+ 
+Exames realizados pelo Laboratório Plátano (CNES 9180222). Exceções são indicadas abaixo do respectivo resultado.
+Acesse seus exames pelo site laboratorioplatano.com.br Qualquer teste e/ou exame laboratorial depende da análise conjunta do resultado e dos dados clínicos do(a)
+paciente. Eventualmente, resultados discordantes podem ocorrer por interferências fisiológicas ou farmacológicas (in vivo), além de interferências analíticas. Em
+caso de dúvida, recomendamos que o solicitante entre em contato com a diretoria técnica.
+ 
+Pato Branco - R. Silvio Vidal, 175 -              
+(46) 3225-0067
+ 
+Pato Branco - R. Ibibora, 63, Centro -                
+(46) 99982-9531
+Pato Branco - Av. Brasil, 390 - (46) 3225-2191
