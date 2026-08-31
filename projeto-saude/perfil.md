@@ -11,7 +11,7 @@
 - % gordura estimada: **~25% (±4)** por foto em 2026-08-20 → massa magra ~65 kg, gordura ~22 kg
 
 ## Saúde
-- Doenças/condições conhecidas: ruptura parcial (~50%) do supraespinhal do ombro direito (ortopedista liberou beach tennis com ressalvas; fisioterapia avaliada, ainda não iniciada)
+- Doenças/condições conhecidas: ruptura parcial (~50%) do supraespinhal do ombro direito (ortopedista liberou beach tennis com ressalvas; **fisioterapia iniciada em 2026-08-28** — 1ª sessão direcionada feita)
 - Medicações: **sertralina 50 mg/dia há 9 meses** (confirmado). Nenhuma medicação para emagrecer.
 - Alergias/intolerâncias: ?
 - Esposa é médica, especialista em medicina integrativa e funcional — conduta clínica passa por ela.

@@ -23,3 +23,6 @@
 | 2026-08-26 | Exames de 15/08/2025 analisados e registrados. **Hipótese de resistência à insulina descartada** (HOMA-IR 1,20, HbA1c 5,3%) | O ganho de peso é balanço calórico e rotina, não doença metabólica. Simplifica o projeto: dieta e treino resolvem. |
 | 2026-08-26 | Vitamina D confirmada baixa (22 ng/mL, estável há 3 anos) — reposição a discutir com a médica | Sai da lista de "medir antes" e vira pendência clínica real. |
 | 2026-08-26 | T4 livre 0,59 (fundo da faixa, caiu de 1,07 em 2023) marcado como ponto de atenção nº 1 nos novos exames | Coerente com a queixa de inchaço facial, cansaço e ganho de peso. Pedir T3 livre, T3 reverso e anticorpos. |
+| 2026-08-28 | **Fisioterapia do ombro iniciada** — 1ª sessão direcionada. Era o item nº 1 da lista de pendências desde o início. | Destrava o principal risco do projeto (ombro) e o principal limitador do treino de força. |
+| 2026-08-29 | Beach tennis mantido 2x (sexta e sábado) | Conjunto de movimento se firmando: fisio + beach. Falta a academia entrar. |
+| 2026-08-31 | Alimentação ainda irregular, reconhecido pelo próprio Tiago. **Sem cobrança** — o conjunto (fisio + esporte) está se montando primeiro, que é a prioridade declarada dele. | Ordem natural: movimento volta antes da dieta. Forçar a dieta agora arriscaria o que já está funcionando. |
